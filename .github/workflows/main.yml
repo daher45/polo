@@ -41,5 +41,5 @@ jobs:
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
     - name: Connect To Your RDP using this address
       run: cmd /c start.bat
-    - name: Berhasil Dibuat! Anda Bisa Menutup Tab Sekarang.
+    - name: RDP Created Successfully! Now you can close the tab.
       run: cmd /c loop.bat
