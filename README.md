@@ -1,5 +1,5 @@
 # Push33n_RDP
-#### Available up to 6 hrs.
+#### Available for 1 hr.
 
 
 #### Don't Edit AnyThing to keep Running Without any Error
