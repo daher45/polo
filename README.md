@@ -1,25 +1,24 @@
-# Avi_RDP 🍃
-
-it's all free, don't be stingy ⭐️ yes: D
-
-#### ^_^ Works For 6 hrs
+# Push33n_RDP
+#### Available up to 6 hrs.
 
 
-#### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
+#### Don't Edit AnyThing to keep Running Without any Error
 
 <br>
 
-### HOW TO CREATE Avi_RDP
+### HOW TO CREATE RDP
 ```
-> Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
+- Fork this Repository
 
-> visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
+- Go to ngrok.io and login
 
-> Inside this Repo Go to Settings> Secrets> New repository secret
+- And then click to Your Authtoken to get the token
 
-> Fill in the Name: Enter NGROK_AUTH_TOKEN
+- Then go this repo, go to Settings> Secrets> New repository secret 
 
-> Fill in Value: Visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste in the value
+- In the Name fill in: Enter NGROK_AUTH_TOKEN
+
+- Fill in Value the token you got in the previous step.
 
 > Press Add secret 
 
@@ -30,19 +29,18 @@ it's all free, don't be stingy ⭐️ yes: D
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
 
-### Configuration
+### Specification
 ```
 CPU 2core - 7GB Ram - 256 SSD
 ```
 
-### WARN
+### Attention
 ```
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
+- Only for education purpose
 
-DON'T USE FOR MINING OR ILLEGAL USE
+- Don't use the rdp for mining, exploiting
 
-DON'T RECODE THIS SC!
 ```
 ---
 
-#### Main Repository : https://github.com/avipatilpro/AviRDP
+#### Main repo : https://github.com/datpusheen123/NgrokRDP
