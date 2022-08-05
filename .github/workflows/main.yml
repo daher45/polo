@@ -39,7 +39,7 @@ jobs:
         copy "Ganti Password.exe" "C:\Users\Public\Desktop\Ganti Password.exe"
     - name: Creating Tunnel...
       run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
-    - name: Connect To Your RDP
+    - name: Connect To Your RDP using this address
       run: cmd /c start.bat
     - name: Berhasil Dibuat! Anda Bisa Menutup Tab Sekarang.
       run: cmd /c loop.bat
