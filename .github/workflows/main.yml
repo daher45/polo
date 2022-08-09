@@ -18,7 +18,7 @@ jobs:
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/datpusheen123/NgrokRDP/main/launcher/Node.js.lnk -OutFile Node.js.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/datpusheen123/NgrokRDP/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
-    - name: Extracting Ngrok File.
+    - name: Extracting Ngrok Files...
       run: Expand-Archive ngrok.zip
     - name: Connecting to your Ngrok Account...
       run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
