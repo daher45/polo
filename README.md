@@ -31,7 +31,7 @@
 
 ### Specification
 ```
-CPU 2core - 7GB Ram - 256 SSD
+CPU 2vCPU - 7GB Ram - 256GB SSD
 ```
 
 ### Attention
